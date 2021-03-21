@@ -1,0 +1,13 @@
+h2{
+    color: #ffffff;
+    background-color: #000000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
+pre{
+    color: #f08080;
+    background-color: #00008b;
+    padding-top: 20px ;
+    padding-bottom: 10px;
+}
